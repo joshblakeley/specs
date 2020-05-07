@@ -1,0 +1,32 @@
+{
+  "_id": "5eb3bb14760df60001149c20",
+  "id": "5eb3bb14760df60001149c20",
+  "org_id": "5eb27200af85da000119b1ca",
+  "rate": 1000,
+  "per": 60,
+  "quota_max": -1,
+  "quota_renewal_rate": 3600,
+  "access_rights": {
+    "76f653bf23ea48ee7e9a437de481f3ca": {
+      "api_name": "oidc access control",
+      "api_id": "76f653bf23ea48ee7e9a437de481f3ca",
+      "versions": [
+        "Default"
+      ],
+      "allowed_urls": []
+    }
+  },
+  "hmac_enabled": false,
+  "active": true,
+  "name": "oidc access control base",
+  "is_inactive": false,
+  "date_created": "2020-05-07T07:39:00.298Z",
+  "tags": [],
+  "key_expires_in": 0,
+  "partitions": {
+    "quota": false,
+    "rate_limit": false,
+    "acl": false
+  },
+  "last_updated": "1588837140"
+}
